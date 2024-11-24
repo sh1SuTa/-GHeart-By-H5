@@ -2,3 +2,5 @@
 这是 GHeart 论坛的 H5项目，若要查看Android项目，请转至 https://github.com/sh1SuTa/GHeart-for-Android
 
 推送 git push origin main
+
+H5源码 https://github.com/sh1SuTa/GHeartFr/tree/master
